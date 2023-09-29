@@ -1,0 +1,1 @@
+CREATE SCHEMA `bd_libreria_viernes` DEFAULT CHARACTER SET utf16 ;
